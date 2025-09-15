@@ -86,6 +86,10 @@ dotnet run
 API will be available at:
 👉 https://localhost:5001/swagger
 
+## 📊 Database Diagram
+![DB_D_1_EX_2](https://github.com/user-attachments/assets/98e6d294-d304-4bfe-90e0-41e0b3eb8a4c)
+
+
 ## 📸 Demo Screenshots
 
 <img width="2880" alt="screencapture-localhost-5062-swagger-index-html-2025-09-15-21_26_04" src="https://github.com/user-attachments/assets/383dd9fd-0cc7-4606-bd8e-6159ee939fbc" />
